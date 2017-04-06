@@ -58,7 +58,7 @@ li {
 
 /*Custom element styling the head of FLUID business page*/
 #header_massage {
-	width: 97%;
+	width: 100%;
 	font-size: 20pt;
 	color: #46E639;
 }
@@ -66,7 +66,6 @@ li {
 /*Custom element styling body of business page*/
 #container_massage {
 	width: 97%;
-  	background-color: #46E639;
     background: url("http://cdn.whatclinic.com/massage-therapy/ireland/county-kildare/naas/perfect-line-massage-studio/thumbnails/8d8936d690e5ad79/tr%20097.jpg?hmac=08c79698862e140a1a19ea79b08350a263367e00") #00D no-repeat fixed; 	
     color: #64FF33;
 	padding: 1em;
