@@ -51,7 +51,8 @@ li {
 #container_cod {
 	width: 97%;
 	background-color: #101010;
-    background: url("http://2.bp.blogspot.com/-q2L3VvAVmSQ/Us08w7ld5AI/AAAAAAAAIMI/KaXdT1SB9Ko/s1600/Soldiers+raising+the+Soviet+flag+over+the+Reichstag,+Berlin+1945+2.jpg") no-repeat fixed; 	
+   	background: url("../media/Flag over the Reichstag, Berlin 1945.jpg") fixed;
+	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
 	padding: 1em;
@@ -61,11 +62,11 @@ li {
 #header_massage {
 	width: 100%;
 	font-size: 20pt;
-	background-image: url("../media/massage_studio.jpg");
+	background: url("../media/massage_studio.jpg") fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #0D2981;
-	color: #46E639;
+	color: lime;
 }
 
 /*Custom element styling body of business page*/
@@ -74,14 +75,15 @@ li {
 	background: url("../media/massage_studio.jpg") fixed; 
 	background-repeat: no-repeat;
 	background-size: cover;
-    color: #64FF33;
+    color: lime;
 	padding: 2em;
 }
 
 /*Custom elements styling both head and body of FLUID resume page */
 #header_resume, #container_resume {
 	width: 97%;
-	background: url("https://s-media-cache-ak0.pinimg.com/originals/db/d7/e7/dbd7e7e2fd26518e2a4aae3c3dbbeaaa.jpg") no-repeat fixed; 	
+	background: url("../media/skyline.jpg") fixed; 
+	background-repeat: no-repeat;	
 	background-size: cover;
 	color: white;
 	padding: 1em;
