@@ -19,7 +19,7 @@ a:hover, a:active {
 
 /*Customize header and footer style*/
 header, footer {
-	background-color: yellow;
+	background-color: gold;
 	padding: 1em;
 }
 
@@ -37,14 +37,14 @@ li {
 #container_index {
 	width: 1250px;
 	background-color: #B4BBBD;
-	color: black;
+	color: yellow;
 }
 
 /*Custom element styling header of FLUID timeline page*/
 #header_cod {
 	width: 100%;
-	background-color: #FCE60A;
-	color: black;
+	background-color: black;
+	color: white;
 }
 
 /*Custom element styling body of timeline page*/
@@ -60,6 +60,7 @@ li {
 #header_massage {
 	width: 100%;
 	font-size: 20pt;
+	background-color: #0D2981;
 	color: #46E639;
 }
 
@@ -74,7 +75,6 @@ li {
 /*Custom elements styling both head and body of FLUID resume page */
 #header_resume, #container_resume {
 	width: 97%;
-	background-color: #2149DF;
 	background: url("https://s-media-cache-ak0.pinimg.com/originals/db/d7/e7/dbd7e7e2fd26518e2a4aae3c3dbbeaaa.jpg") no-repeat fixed; 	
 	color: white;
 	padding: 1em;
