@@ -33,6 +33,12 @@ li {
     list-style: none;
 }
 
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+
 /*Custom element styling body of FIXED homepage*/
 #container_index {
 	width: 1250px;
