@@ -1,9 +1,10 @@
 /*Establish same style formatting across all html webpages, regarding: 
 font, text alignment, and background color*/
-body {
+html, body {
 	font-family: Arial, sans-serif, "Times New Roman";
 	text-align: center;
 	background-color: #B4BBBD;
+	min-height: 100%;
 }
 
 /*Customize the initial appearance of a link, and once it is visited via events*/
