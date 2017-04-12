@@ -42,6 +42,10 @@ li {
 }
 */
 
+@-ms-viewport{
+  width: device-width;
+}
+
 /*Custom element styling body of FIXED homepage*/
 #container_index {
 	width: 1250px;
