@@ -44,6 +44,7 @@ li {
 
 @-ms-viewport{
   width: device-width;
+  height: device-height;
 }
 
 /*Custom element styling body of FIXED homepage*/
